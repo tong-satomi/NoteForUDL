@@ -1,0 +1,29 @@
+# === IDE & Editor ===
+.vscode/
+
+# === Python ===
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# === Jupyter Notebook ===
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# === Virtual Environment ===
+venv/
+.venv/
+env/
+.env
+
+# === OS Generated Files ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === Practice Outputs (generated files) ===
+practice/processed/
+practice/models/
+practice/results/
